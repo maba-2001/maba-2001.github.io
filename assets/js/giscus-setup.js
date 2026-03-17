@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "maba-2001/resume",
+    "data-repo": "maba-2001/maba-2001.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
