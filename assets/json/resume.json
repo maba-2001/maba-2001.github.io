@@ -39,10 +39,7 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "summary": "Faculty of Economics and Business Administration, Department of Marketing, Innovation and Organisation.",
-      "highlights": [
-        "Research in geometric deep learning for CAD and manufacturing.",
-        "Research in instance-dependent cost-sensitive learning."
-      ]
+      "highlights": ["Research in geometric deep learning for CAD and manufacturing.", "Research in instance-dependent cost-sensitive learning."]
     },
     {
       "name": "Flanders Make",
@@ -99,12 +96,7 @@
       "name": "Research Areas",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "CAD Design for Manufacturing",
-        "Geometric Deep Learning",
-        "Cost-sensitive Learning",
-        "Credit Scoring"
-      ]
+      "keywords": ["CAD Design for Manufacturing", "Geometric Deep Learning", "Cost-sensitive Learning", "Credit Scoring"]
     }
   ],
   "languages": [
