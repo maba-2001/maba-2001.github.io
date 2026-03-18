@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: False
 nav_order: 2
 cv_pdf: # leave blank - using jsonresume format instead
 cv_format: jsonresume # options: rendercv, jsonresume
