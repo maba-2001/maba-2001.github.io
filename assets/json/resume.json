@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Matteo Ballegeer",
-    "label": "PhD Researcher in Data Analytics",
-    "image": "",
+    "label": "PhD Researcher in 3D Deep Learning",
+    "image": "https://maba-2001.github.io/assets/img/headshot.png",
     "email": "matteo.ballegeer@ugent.be",
     "phone": "",
-    "summary": "PhD researcher at Ghent University working on CAD design for manufacturing, geometric deep learning, and cost-sensitive learning.",
+    "summary": "PhD researcher at Ghent University developing advanced machine learning algorithms for manufacturing intelligence extraction from CAD geometry. Research focuses on 3D deep learning, geometric deep learning, rotation-invariant models, and explainable AI for design and manufacturing applications.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,39 +16,92 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "matteoballegeer",
-        "url": "https://www.linkedin.com/in/matteoballegeer/"
+        "username": "matteo-ballegeer",
+        "url": "https://www.linkedin.com/in/matteo-ballegeer/"
       },
       {
         "network": "Google Scholar",
         "username": "NMzzF6gAAAAJ",
-        "url": "https://scholar.google.be/citations?user=NMzzF6gAAAAJ&hl=nl"
+        "url": "https://scholar.google.be/citations?user=NMzzF6gAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "0009-0006-0881-5644",
         "url": "https://orcid.org/0009-0006-0881-5644"
+      },
+      {
+        "network": "arXiv",
+        "username": "matteoballegeer",
+        "url": "https://arxiv.org/a/ballegeer_m_1.html"
       }
     ]
   },
   "work": [
     {
       "name": "Ghent University",
-      "position": "PhD Researcher in Data Analytics",
+      "position": "PhD Researcher in 3D Deep Learning",
       "location": "Ghent, Belgium",
       "startDate": "2024-09-01",
-      "endDate": "",
-      "summary": "Faculty of Economics and Business Administration, Department of Marketing, Innovation and Organisation.",
-      "highlights": ["Research in geometric deep learning for CAD and manufacturing.", "Research in instance-dependent cost-sensitive learning."]
+      "summary": "PhD researcher at Ghent University's Department of Marketing, Innovation and Organisation, with primary focus on the ManProCAD Flanders Make project. Developing advanced algorithms to estimate manufacturing effort and cost from 3D CAD designs, streamlining the feedback loop between product designers and manufacturers.",
+      "highlights": [
+        "FoV-Net: Rotation-invariant CAD B-rep learning framework using field-of-view ray casting (accepted to CVPR 2026)",
+        "BenDFM: Synthetic CAD dataset and taxonomy for manufacturability assessment in sheet metal bending",
+        "Research in geometric deep learning, graph neural networks, and explainable AI for CAD applications",
+        "Collaboration with CVAMO Flanders Make Lab"
+      ]
     },
     {
-      "name": "Flanders Make",
-      "position": "Member",
-      "location": "Lommel, Belgium",
-      "startDate": "2024-09-01",
-      "endDate": "",
-      "summary": "Professional activity and research collaboration.",
-      "highlights": []
+      "name": "IPCOM",
+      "position": "Student PIM Data Specialist",
+      "location": "Melle, Belgium",
+      "startDate": "2023-04-01",
+      "endDate": "2024-08-31",
+      "summary": "Part-time role (15 hours/week) contributing to ERP system integration and product information management for recently acquired global subsidiaries.",
+      "highlights": [
+        "Streamlined integration of subsidiary ERP systems through centralized hub",
+        "Ensured consistency and accuracy of product information across webshops",
+        "Enabled customized catalogs and structures for acquired subsidiaries"
+      ]
+    },
+    {
+      "name": "Vlerick Business School",
+      "position": "Student Data Collection",
+      "location": "Ghent, Belgium",
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-30",
+      "summary": "Supported the Executive Remuneration Research Centre by collecting high-quality data on CEO compensation from annual reports of Europe's 700 largest publicly listed companies.",
+      "highlights": [
+        "Analyzed monetary compensation and remuneration types (performance shares, stock options, etc.)",
+        "Built unique dataset serving as selling point for research department",
+        "Enhanced understanding of executive compensation practices and annual reports"
+      ]
+    },
+    {
+      "name": "element61",
+      "position": "LLM Prompt Engineering Intern",
+      "location": "Ghent, Belgium",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Developed and evaluated large language model applications for business use cases during internship with data science and analysis team.",
+      "highlights": [
+        "Developed in-house corporate chatbot in MS Teams using OpenAI with real-time data access via internet search API",
+        "Integrated vector database and internal corporate data for enhanced context",
+        "Evaluated genAI business applications optimized through prompt engineering",
+        "Presented insights with positive reception for clarity and structure"
+      ]
+    },
+    {
+      "name": "Ipsos",
+      "position": "Student Research Executive - Innovation",
+      "location": "Ghent, Belgium",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-31",
+      "summary": "One-month student contract at world's 3rd largest market research company, experiencing full innovation research process.",
+      "highlights": [
+        "Checked survey logic and interpreted survey results",
+        "Filtered meaningful figures from datasets",
+        "Created presentations for client delivery"
+      ]
     }
   ],
   "volunteer": [],
@@ -58,46 +111,125 @@
       "location": "Ghent, Belgium",
       "url": "https://www.ugent.be/en",
       "area": "Business Engineering - Data Analytics",
-      "studyType": "Master",
+      "studyType": "Master of Science",
       "startDate": "2022-09-01",
       "endDate": "2024-06-30",
-      "score": "",
-      "courses": [],
-      "highlights": ["Faculty of Economics and Business Administration."]
+      "score": "Summa Cum Laude (863/1000)",
+      "highlights": [
+        "Faculty of Economics and Business Administration",
+        "Master's Thesis: 'Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring' (18/20)",
+        "Elective courses: Deep Learning, Internship"
+      ]
+    },
+    {
+      "institution": "Politecnico di Milano",
+      "location": "Milan, Italy",
+      "url": "https://www.polimi.it/en/",
+      "area": "Management Engineering",
+      "studyType": "Master of Science (Exchange)",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-28",
+      "score": "29.4/30 (equivalent to 842/1000 at Ghent University)",
+      "highlights": [
+        "Erasmus+ exchange programme",
+        "Skills: Digital Security Management, Marketing Analytics, Industrial Technology"
+      ]
+    },
+    {
+      "institution": "Ghent University",
+      "location": "Ghent, Belgium",
+      "url": "https://www.ugent.be/en",
+      "area": "Business Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-01-01",
+      "endDate": "2022-06-30",
+      "score": "Magna Cum Laude (805/1000)",
+      "highlights": [
+        "Faculty of Economics and Business Administration",
+        "Skills: Operations Research, Java, Data Analysis, SQL, Financial Analysis, Quantitative Research"
+      ]
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "CVPR 2026 Paper Acceptance",
+      "date": "2026-03-13",
+      "awarder": "IEEE CVPR",
+      "summary": "FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting accepted at the International Conference on Computer Vision and Pattern Recognition 2026 in Denver, Colorado"
+    }
+  ],
   "certificates": [],
   "publications": [
+    {
+      "name": "FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting",
+      "publisher": "IEEE CVPR 2026 (Accepted)",
+      "releaseDate": "2026-02-27",
+      "url": "https://arxiv.org/abs/2602.24084",
+      "summary": "Rotation-invariant CAD B-rep learning framework using field-of-view ray casting and local reference frames. State-of-the-art performance on B-rep classification and segmentation with improved data efficiency. Manuscript accepted at CVPR 2026."
+    },
+    {
+      "name": "BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending",
+      "publisher": "arXiv",
+      "releaseDate": "2026-03-13",
+      "url": "https://arxiv.org/abs/2603.13102",
+      "summary": "First synthetic dataset for manufacturability assessment in sheet metal bending with 20,000 parts (both manufacturable and unmanufacturable). Includes process-aware bending simulations, multiple manufacturability labels, and benchmarks on state-of-the-art 3D learning architectures."
+    },
     {
       "name": "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring",
       "publisher": "European Journal of Operational Research",
       "releaseDate": "2025-11-01",
       "url": "https://doi.org/10.1016/j.ejor.2025.05.039",
-      "summary": "With Matthias Bogaert and Dries F. Benoit."
+      "summary": "Published with Matthias Bogaert and Dries F. Benoit. Investigates stability of instance-dependent cost-sensitive (IDCS) classifiers and their SHAP/LIME explanations under class imbalance. SJR Q1 (2.239), ABS 4, ABDC A*."
     },
     {
       "name": "Automated data generation for assessing sheet metal bending manufacturability",
-      "publisher": "Flanders Make Scientific Conference 2025: Proceedings",
+      "publisher": "Flanders Make Scientific Conference 2025",
       "releaseDate": "2025-01-01",
       "url": "https://biblio.ugent.be/publication/01JS4KXY2PY52K7AFW92S061H7",
-      "summary": "With Toon Van Camp and Dries Benoit."
-    },
-    {
-      "name": "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring",
-      "publisher": "Joint ORBEL-NGB Conference, Booklet of Abstracts",
-      "releaseDate": "2025-01-01",
-      "url": "https://biblio.ugent.be/publication/01JS4JWMWY3J2QWQC0R0N5ZBZ7",
-      "summary": "Conference paper version with Matthias Bogaert and Dries Benoit."
+      "summary": "With Toon Van Camp and Dries Benoit. Conference paper on automated data generation for manufacturing assessment."
     }
   ],
   "skills": [
     {
       "name": "Research Areas",
+      "level": "Expert",
+      "keywords": ["3D Deep Learning", "Geometric Deep Learning", "CAD Design for Manufacturing", "Rotation-Invariant Learning", "Graph Neural Networks", "Cost-sensitive Learning", "Explainable AI", "Manufacturability Assessment"]
+    },
+    {
+      "name": "Machine Learning & AI",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["CAD Design for Manufacturing", "Geometric Deep Learning", "Cost-sensitive Learning", "Credit Scoring"]
+      "keywords": ["Deep Learning", "Graph Neural Networks", "Explainability (SHAP/LIME)", "Model Stability", "Feature Engineering", "Model Evaluation"]
+    },
+    {
+      "name": "Data Science & Analytics",
+      "level": "Advanced",
+      "keywords": ["Data Analysis", "Big Data", "Statistical Analysis", "Survey Research", "Market Research", "Quantitative Research"]
+    },
+    {
+      "name": "Programming & Tools",
+      "level": "Advanced",
+      "keywords": ["Python", "Java", "SQL", "Microsoft Azure", "Azure Databricks", "Vector Databases", "Prompt Engineering"]
+    },
+    {
+      "name": "Business & Domain Knowledge",
+      "level": "Advanced",
+      "keywords": ["Product Information Management", "CAD/CAM", "Sheet Metal Bending", "Manufacturing Processes", "Operations Research", "Operations Management", "Financial Analysis"]
     }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
   ],
   "languages": [
     {
