@@ -41,9 +41,9 @@ My current research centers on rotation invariance and equivariance in 3D deep l
 ## Featured Publications
 
 My work has appeared in top-tier venues:
-- **FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting** — Accepted at CVPR 2026
-- **BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending** — arXiv:2603.13102 (Accepted at Journal of Intelligent Manufacturing)
-- **Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring** — *European Journal of Operational Research* 326(3), 630–640 (SJR Q1)
+- **[FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](https://doi.org/10.48550/arXiv.2602.24084)** — Accepted at CVPR 2026
+- **[BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending](https://doi.org/10.48550/arXiv.2603.13102)** — Recently Accepted at Journal of Intelligent Manufacturing
+- **[Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring](https://doi.org/10.1016/j.ejor.2025.05.039)** — *European Journal of Operational Research* 326(3), 630–640 (SJR Q1)
 
 See the [publications](/publications/) page for a complete list.
 
