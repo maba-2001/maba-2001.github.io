@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected publications in reverse chronological order.
+description: Research publications in 3D deep learning, CAD design for manufacturing, and explainable AI.
 nav: true
 nav_order: 3
 ---
