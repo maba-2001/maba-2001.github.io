@@ -1,1 +1,117 @@
-{"basics":{"name":"Matteo Ballegeer","label":"PhD Researcher in Data Analytics","image":"","email":"matteo.ballegeer@ugent.be","phone":"","summary":"PhD researcher at Ghent University working on CAD design for manufacturing, geometric deep learning, and cost-sensitive learning.","location":{"address":"","postalCode":"","city":"Ghent","countryCode":"BE","region":"East Flanders"},"profiles":[{"network":"LinkedIn","username":"matteoballegeer","url":"https://www.linkedin.com/in/matteoballegeer/"},{"network":"Google Scholar","username":"NMzzF6gAAAAJ","url":"https://scholar.google.be/citations?user=NMzzF6gAAAAJ&hl=nl"},{"network":"ORCID","username":"0009-0006-0881-5644","url":"https://orcid.org/0009-0006-0881-5644"}]},"work":[{"name":"Ghent University","position":"PhD Researcher in Data Analytics","location":"Ghent, Belgium","startDate":"2024-09-01","endDate":"","summary":"Faculty of Economics and Business Administration, Department of Marketing, Innovation and Organisation.","highlights":["Research in geometric deep learning for CAD and manufacturing.","Research in instance-dependent cost-sensitive learning."]},{"name":"Flanders Make","position":"Member","location":"Lommel, Belgium","startDate":"2024-09-01","endDate":"","summary":"Professional activity and research collaboration.","highlights":[]}],"volunteer":[],"education":[{"institution":"Ghent University","location":"Ghent, Belgium","url":"https://www.ugent.be/en","area":"Business Engineering - Data Analytics","studyType":"Master","startDate":"2022-09-01","endDate":"2024-06-30","score":"","courses":[],"highlights":["Faculty of Economics and Business Administration."]}],"awards":[],"certificates":[],"publications":[{"name":"Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring","publisher":"European Journal of Operational Research","releaseDate":"2025-11-01","url":"https://doi.org/10.1016/j.ejor.2025.05.039","summary":"With Matthias Bogaert and Dries F. Benoit."},{"name":"Automated data generation for assessing sheet metal bending manufacturability","publisher":"Flanders Make Scientific Conference 2025: Proceedings","releaseDate":"2025-01-01","url":"https://biblio.ugent.be/publication/01JS4KXY2PY52K7AFW92S061H7","summary":"With Toon Van Camp and Dries Benoit."},{"name":"Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring","publisher":"Joint ORBEL-NGB Conference, Booklet of Abstracts","releaseDate":"2025-01-01","url":"https://biblio.ugent.be/publication/01JS4JWMWY3J2QWQC0R0N5ZBZ7","summary":"Conference paper version with Matthias Bogaert and Dries Benoit."}],"skills":[{"name":"Research Areas","level":"Advanced","icon":"fa-solid fa-hashtag","keywords":["CAD Design for Manufacturing","Geometric Deep Learning","Cost-sensitive Learning","Credit Scoring"]}],"languages":[{"language":"Dutch","fluency":"Native speaker","icon":""},{"language":"English","fluency":"Fluent","icon":""}],"interests":[],"references":[],"projects":[]}
+{
+  "basics": {
+    "name": "Matteo Ballegeer",
+    "label": "PhD Researcher in Data Analytics",
+    "image": "",
+    "email": "matteo.ballegeer@ugent.be",
+    "phone": "",
+    "summary": "PhD researcher at Ghent University working on CAD design for manufacturing, geometric deep learning, and cost-sensitive learning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ghent",
+      "countryCode": "BE",
+      "region": "East Flanders"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "matteoballegeer",
+        "url": "https://www.linkedin.com/in/matteoballegeer/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "NMzzF6gAAAAJ",
+        "url": "https://scholar.google.be/citations?user=NMzzF6gAAAAJ&hl=nl"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0006-0881-5644",
+        "url": "https://orcid.org/0009-0006-0881-5644"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ghent University",
+      "position": "PhD Researcher in Data Analytics",
+      "location": "Ghent, Belgium",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Faculty of Economics and Business Administration, Department of Marketing, Innovation and Organisation.",
+      "highlights": ["Research in geometric deep learning for CAD and manufacturing.", "Research in instance-dependent cost-sensitive learning."]
+    },
+    {
+      "name": "Flanders Make",
+      "position": "Member",
+      "location": "Lommel, Belgium",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Professional activity and research collaboration.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ghent University",
+      "location": "Ghent, Belgium",
+      "url": "https://www.ugent.be/en",
+      "area": "Business Engineering - Data Analytics",
+      "studyType": "Master",
+      "startDate": "2022-09-01",
+      "endDate": "2024-06-30",
+      "score": "",
+      "courses": [],
+      "highlights": ["Faculty of Economics and Business Administration."]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring",
+      "publisher": "European Journal of Operational Research",
+      "releaseDate": "2025-11-01",
+      "url": "https://doi.org/10.1016/j.ejor.2025.05.039",
+      "summary": "With Matthias Bogaert and Dries F. Benoit."
+    },
+    {
+      "name": "Automated data generation for assessing sheet metal bending manufacturability",
+      "publisher": "Flanders Make Scientific Conference 2025: Proceedings",
+      "releaseDate": "2025-01-01",
+      "url": "https://biblio.ugent.be/publication/01JS4KXY2PY52K7AFW92S061H7",
+      "summary": "With Toon Van Camp and Dries Benoit."
+    },
+    {
+      "name": "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring",
+      "publisher": "Joint ORBEL-NGB Conference, Booklet of Abstracts",
+      "releaseDate": "2025-01-01",
+      "url": "https://biblio.ugent.be/publication/01JS4JWMWY3J2QWQC0R0N5ZBZ7",
+      "summary": "Conference paper version with Matthias Bogaert and Dries Benoit."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["CAD Design for Manufacturing", "Geometric Deep Learning", "Cost-sensitive Learning", "Credit Scoring"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
