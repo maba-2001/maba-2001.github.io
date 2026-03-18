@@ -9,9 +9,9 @@ last_name: Ballegeer
 contact_note: >
   Best reached by email at matteo.ballegeer@ugent.be.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD researcher at Ghent University focused on CAD design for manufacturing, geometric deep learning, and cost-sensitive learning.
+  PhD researcher at Ghent University developing AI algorithms for CAD design and manufacturing intelligence. Research focuses on 3D deep learning, geometric learning, rotation-invariant models, and explainable AI.
 footer_text: >
-  Matteo Ballegeer | PhD Researcher, Ghent University.
+  Matteo Ballegeer | PhD Researcher, Ghent University | ORCID: 0009-0006-0881-5644
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

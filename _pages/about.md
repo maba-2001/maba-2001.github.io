@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher in Data Analytics at Ghent University
+subtitle: PhD Researcher in 3D Deep Learning
 
 profile:
   align: right
@@ -10,8 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ghent University</p>
+    <p>Department of Marketing, Innovation and Organisation</p>
     <p>Faculty of Economics and Business Administration</p>
     <p>Ghent, Belgium</p>
+    <p><a href="mailto:matteo.ballegeer@ugent.be">matteo.ballegeer@ugent.be</a></p>
+    <p><a href="https://orcid.org/0009-0006-0881-5644">ORCID</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +30,40 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD researcher at Ghent University, affiliated with the Faculty of Economics and Business Administration. My work spans CAD design for manufacturing, geometric deep learning, and instance-dependent cost-sensitive learning.
+## About
 
-I am currently active in the Department of Marketing, Innovation and Organisation and collaborate with Flanders Make. My publications include work in the European Journal of Operational Research and conference contributions on manufacturing and interpretable machine learning.
+I am a PhD researcher at Ghent University's Department of Marketing, Innovation and Organisation, collaborating with the CVAMO Flanders Make Lab. I focus on developing advanced machine learning algorithms to extract manufacturing intelligence directly from CAD geometry.
 
-You can find my profiles via Google Scholar, ORCID, and LinkedIn in the social links below.
+My research interests span **3D deep learning**, **geometric learning**, **CAD design for manufacturing (DFM)**, **graph neural networks**, **rotation-invariant learning**, and **explainable AI**. I aim to streamline the feedback loop between product designers and manufacturers in industrial environments, reducing lead times and enhancing production efficiency.
+
+## Current Research
+
+My primary effort is on the **ManProCAD** Flanders Make project, developing algorithms to estimate manufacturing effort and cost from 3D CAD designs. Recent work includes:
+
+- **FoV-Net**: A rotation-invariant CAD B-rep learning framework using field-of-view ray casting and local reference frames, accepted to CVPR 2026
+- **BenDFM**: A synthetic CAD dataset and taxonomy for manufacturability assessment in sheet metal bending
+- Explainability and stability of cost-sensitive machine learning models
+
+## Education
+
+- **M.S. in Business Engineering: Data Analytics** — Ghent University (2022–2024)
+  - Summa Cum Laude (863/1000) | Master's Thesis: "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring" (18/20)
+  
+- **Erasmus Exchange** — Politecnico di Milano (2022–2023)
+  - Average: 29.4/30 (equivalent to 842/1000)
+
+- **B.S. in Business Engineering** — Ghent University (2019–2022)
+  - Magna Cum Laude (805/1000)
+
+## Featured Publications
+
+My work has appeared in top-tier venues:
+- **FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting** — Accepted at CVPR 2026
+- **BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending** — arXiv:2603.13102
+- **Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring** — *European Journal of Operational Research* 326(3), 630–640 (SJR Q1)
+
+See the [publications](/publications/) page for a complete list.
+
+---
+
+You can find my profiles via [Google Scholar](https://scholar.google.com), [ORCID](https://orcid.org/0009-0006-0881-5644), [arXiv](https://arxiv.org/a/ballegeer_m_1.html), and [LinkedIn](https://www.linkedin.com/in/matteo-ballegeer/) in the icons below.
