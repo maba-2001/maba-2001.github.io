@@ -104,58 +104,6 @@
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "Ghent University",
-      "location": "Ghent, Belgium",
-      "url": "https://www.ugent.be/en",
-      "area": "Business Engineering - Data Analytics",
-      "studyType": "Master of Science",
-      "startDate": "2022-09-01",
-      "endDate": "2024-06-30",
-      "score": "Summa Cum Laude (863/1000)",
-      "highlights": [
-        "Master's Thesis: 'Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring' (18/20)",
-        "Elective courses: Deep Learning, Internship"
-      ]
-    },
-    {
-      "institution": "Politecnico di Milano",
-      "location": "Milan, Italy",
-      "url": "https://www.polimi.it/en/",
-      "area": "Management Engineering",
-      "studyType": "Master of Science (Exchange)",
-      "startDate": "2022-09-01",
-      "endDate": "2023-02-28",
-      "score": "29.4/30 (equivalent to 842/1000 at Ghent University)",
-      "highlights": [
-        "Erasmus+ exchange programme",
-        "Skills: Digital Security Management, Marketing Analytics, Industrial Technology"
-      ]
-    },
-    {
-      "institution": "Ghent University",
-      "location": "Ghent, Belgium",
-      "url": "https://www.ugent.be/en",
-      "area": "Business Engineering",
-      "studyType": "Bachelor of Science",
-      "startDate": "2019-01-01",
-      "endDate": "2022-06-30",
-      "score": "Magna Cum Laude (805/1000)",
-      "highlights": [
-        "Skills: Operations Research, Java, Data Analysis, SQL, Financial Analysis, Quantitative Research"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "CVPR 2026 Paper Acceptance",
-      "date": "2026-03-13",
-      "awarder": "IEEE CVPR",
-      "summary": "FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting accepted at the International Conference on Computer Vision and Pattern Recognition 2026 in Denver, Colorado"
-    }
-  ],
-  "certificates": [],
   "publications": [
     {
       "name": "FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting",
@@ -186,6 +134,59 @@
       "summary": "With Toon Van Camp and Dries Benoit. Conference paper on automated data generation for manufacturing assessment."
     }
   ],
+  "education": [
+    {
+      "institution": "Ghent University",
+      "location": "Ghent, Belgium",
+      "url": "https://www.ugent.be/en",
+      "area": "Business Engineering - Data Analytics",
+      "studyType": "Master of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2024-06-30",
+      "score": "Summa Cum Laude (863/1000)",
+      "highlights": [
+        "Master's Thesis: Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring (18/20)",
+        "Elective courses: Deep Learning, Internship"
+      ]
+    },
+    {
+      "institution": "Politecnico di Milano",
+      "location": "Milan, Italy",
+      "url": "https://www.polimi.it/en/",
+      "area": "Management Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-28",
+      "score": "29.4/30",
+      "highlights": [
+        "Erasmus+ exchange (5 months)",
+        "Equivalent to 842/1000 at Ghent University",
+        "Skills: Digital Security Management, Marketing Analytics, Industrial Technology"
+      ]
+    },
+    {
+      "institution": "Ghent University",
+      "location": "Ghent, Belgium",
+      "url": "https://www.ugent.be/en",
+      "area": "Business Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-01-01",
+      "endDate": "2022-06-30",
+      "score": "Magna Cum Laude (805/1000)",
+      "highlights": [
+        "Skills: Operations Research, Java, Data Analysis, SQL, Financial Analysis, Quantitative Research"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "CVPR 2026 Paper Acceptance",
+      "date": "2026-03-13",
+      "awarder": "IEEE CVPR",
+      "summary": "FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting accepted at the International Conference on Computer Vision and Pattern Recognition 2026 in Denver, Colorado"
+    }
+  ],
+  "certificates": [],
   "skills": [
     {
       "name": "Research Areas",
@@ -221,23 +222,6 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
-}
-  ],
-  "languages": [
-    {
-      "language": "Dutch",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [],
