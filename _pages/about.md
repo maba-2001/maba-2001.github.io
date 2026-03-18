@@ -61,4 +61,4 @@ See the [publications](/publications/) page for a complete list.
 
 ---
 
-You can find my profiles via [Google Scholar](https://scholar.google.com), [ORCID](https://orcid.org/0009-0006-0881-5644), [arXiv](https://arxiv.org/a/ballegeer_m_1.html), and [LinkedIn](https://www.linkedin.com/in/matteo-ballegeer/) in the icons below.
+You can find my profiles via [Google Scholar](https://scholar.google.com), [ORCID](https://orcid.org/0009-0006-0881-5644), and [LinkedIn](https://www.linkedin.com/in/matteo-ballegeer/) in the icons below.
