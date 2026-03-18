@@ -9,9 +9,9 @@ profile:
   image: headshot.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Data Analytics Research Group</p>
     <p>Ghent University</p>
-    <p>Department of Marketing, Innovation and Organisation</p>
-    <p>Faculty of Economics and Business Administration</p>
+    <p>CVAMO Core Lab, Flanders Make @ UGent</p>
     <p>Ghent, Belgium</p>
     <p><a href="mailto:matteo.ballegeer@ugent.be">matteo.ballegeer@ugent.be</a></p>
     <p><a href="https://orcid.org/0009-0006-0881-5644">ORCID</a></p>
@@ -32,13 +32,13 @@ latest_posts:
 
 ## About
 
-I am a PhD researcher at Ghent University's Department of Marketing, Innovation and Organisation, collaborating with the CVAMO Flanders Make Lab. I focus on developing advanced machine learning algorithms to extract manufacturing intelligence directly from CAD geometry.
+I am a PhD researcher in the Data Analytics Research Group at Ghent University, affiliated with the CVAMO Core Lab at Flanders Make. I focus on developing advanced machine learning algorithms to extract manufacturing intelligence directly from CAD geometry.
 
 My research interests span **3D deep learning**, **geometric learning**, **CAD design for manufacturing (DFM)**, **graph neural networks**, **rotation-invariant learning**, and **explainable AI**. I aim to streamline the feedback loop between product designers and manufacturers in industrial environments, reducing lead times and enhancing production efficiency.
 
 ## Current Research
 
-My primary effort is on the **ManProCAD** Flanders Make project, developing algorithms to estimate manufacturing effort and cost from 3D CAD designs. Recent work includes:
+My research is focused on the **ManProCAD** project at Flanders Make, developing algorithms to estimate manufacturing effort and cost from 3D CAD designs. Recent work includes:
 
 - **FoV-Net**: A rotation-invariant CAD B-rep learning framework using field-of-view ray casting and local reference frames, accepted to CVPR 2026
 - **BenDFM**: A synthetic CAD dataset and taxonomy for manufacturability assessment in sheet metal bending
