@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: GitHub repositories relevant to my research and projects.
+description: GitHub repositories for 3D deep learning, CAD analysis, and manufacturability research.
 nav: true
 nav_order: 4
 ---
