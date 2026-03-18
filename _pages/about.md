@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher in 3D Deep Learning
 
 profile:
   align: right
@@ -10,9 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Data Analytics Research Group</p>
-    <p>Ghent University</p>
-    <p>CVAMO Core Lab, Flanders Make @ UGent</p>
-    <p>Ghent, Belgium</p>
+    <p>CVAMO Core Lab, Flanders Make</p>
+    <p>Ghent University, Belgium</p>
     <p><a href="mailto:matteo.ballegeer@ugent.be">matteo.ballegeer@ugent.be</a></p>
     <p><a href="https://orcid.org/0009-0006-0881-5644">ORCID</a></p>
 
@@ -32,37 +30,34 @@ latest_posts:
 
 ## About
 
-I am a PhD researcher in the Data Analytics Research Group at Ghent University, affiliated with the CVAMO Core Lab at Flanders Make. I focus on developing advanced machine learning algorithms to extract manufacturing intelligence directly from CAD geometry.
+I am a PhD researcher in the Data Analytics Research Group at Ghent University, affiliated with the CVAMO Core Lab at Flanders Make. My work focuses on advancing the state-of-the-art in 3D deep learning for Computer-Aided Design (CAD), with industrial applications in automatic 3D shape understanding for Design for Manufacturing (DFM). As part of the ManProCAD project at Flanders Make, a core goal is developing algorithms to estimate manufacturing effort and cost from 3D CAD designs.
 
-My research interests span **3D deep learning**, **geometric learning**, **CAD design for manufacturing (DFM)**, **graph neural networks**, **rotation-invariant learning**, and **explainable AI**. I aim to streamline the feedback loop between product designers and manufacturers in industrial environments, reducing lead times and enhancing production efficiency.
+My research interests span 3D deep learning, geometric deep learning, graph neural networks, rotation-invariant and equivariant learning, and explainable AI.
 
 ## Current Research
 
-My research is focused on the **ManProCAD** project at Flanders Make, developing algorithms to estimate manufacturing effort and cost from 3D CAD designs. Recent work includes:
+My current research centers on rotation invariance and equivariance in 3D deep learning; building models that understand geometric structure regardless of how a shape is oriented in space. A core motivation is sample efficiency: labelled CAD data is scarce in industrial settings, making it essential to design models that can generalise from limited examples. By encoding geometric symmetries directly into the architecture, equivariant models extract richer, more consistent features without requiring additional data.
 
-- **FoV-Net**: A rotation-invariant CAD B-rep learning framework using field-of-view ray casting and local reference frames, accepted to CVPR 2026
-- **BenDFM**: A synthetic CAD dataset and taxonomy for manufacturability assessment in sheet metal bending
-- Explainability and stability of cost-sensitive machine learning models
+## Featured Publications
+
+My work has appeared in top-tier venues:
+- **FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting** — Accepted at CVPR 2026
+- **BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending** — arXiv:2603.13102 (Accepted at Journal of Intelligent Manufacturing)
+- **Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring** — *European Journal of Operational Research* 326(3), 630–640 (SJR Q1)
+
+See the [publications](/publications/) page for a complete list.
 
 ## Education
 
 - **M.S. in Business Engineering: Data Analytics** — Ghent University (2022–2024)
-  - Summa Cum Laude (863/1000) | Master's Thesis: "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring" (18/20)
+  - Summa Cum Laude (863/1000)
+  - Master's Thesis: Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring
   
 - **Erasmus Exchange** — Politecnico di Milano (2022–2023)
   - Average: 29.4/30 (equivalent to 842/1000)
 
 - **B.S. in Business Engineering** — Ghent University (2019–2022)
   - Magna Cum Laude (805/1000)
-
-## Featured Publications
-
-My work has appeared in top-tier venues:
-- **FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting** — Accepted at CVPR 2026
-- **BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending** — arXiv:2603.13102
-- **Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring** — *European Journal of Operational Research* 326(3), 630–640 (SJR Q1)
-
-See the [publications](/publications/) page for a complete list.
 
 ---
 
