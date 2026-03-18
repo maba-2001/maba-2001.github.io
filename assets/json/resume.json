@@ -109,15 +109,15 @@
       "name": "FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting",
       "publisher": "IEEE CVPR 2026 (Accepted)",
       "releaseDate": "2026-02-27",
-      "url": "https://arxiv.org/abs/2602.24084",
+      "url": "https://arxiv.org/pdf/2602.24084",
       "summary": "Rotation-invariant CAD B-rep learning framework using field-of-view ray casting and local reference frames. State-of-the-art performance on B-rep classification and segmentation with improved data efficiency. Manuscript accepted at CVPR 2026."
     },
     {
       "name": "BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending",
-      "publisher": "arXiv",
+      "publisher": "Accepted at Journal of Intelligent Manufacturing",
       "releaseDate": "2026-03-13",
-      "url": "https://arxiv.org/abs/2603.13102",
-      "summary": "First synthetic dataset for manufacturability assessment in sheet metal bending with 20,000 parts (both manufacturable and unmanufacturable). Includes process-aware bending simulations, multiple manufacturability labels, and benchmarks on state-of-the-art 3D learning architectures."
+      "url": "https://arxiv.org/pdf/2603.13102",
+      "summary": "First synthetic dataset for manufacturability assessment in sheet metal bending with 20,000 parts (both manufacturable and unmanufacturable). Includes process-aware bending simulations, multiple manufacturability labels, and benchmarks on state-of-the-art 3D learning architectures. Accepted in Journal of Intelligent Manufacturing."
     },
     {
       "name": "Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring",
