@@ -5,7 +5,7 @@
     "image": "https://maba-2001.github.io/assets/img/headshot.png",
     "email": "matteo.ballegeer@ugent.be",
     "phone": "",
-    "summary": "PhD researcher at Ghent University developing advanced machine learning algorithms for manufacturing intelligence extraction from CAD geometry. Research focuses on 3D deep learning, geometric deep learning, rotation-invariant models, and explainable AI for design and manufacturing applications.",
+    "summary": "PhD researcher in the Data Analytics Research Group at Ghent University (CVAMO Core Lab, Flanders Make) developing advanced machine learning algorithms for manufacturing intelligence extraction from CAD geometry. Research focuses on 3D deep learning, geometric deep learning, rotation-invariant models, and explainable AI.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -42,12 +42,11 @@
       "position": "PhD Researcher in 3D Deep Learning",
       "location": "Ghent, Belgium",
       "startDate": "2024-09-01",
-      "summary": "PhD researcher at Ghent University's Department of Marketing, Innovation and Organisation, with primary focus on the ManProCAD Flanders Make project. Developing advanced algorithms to estimate manufacturing effort and cost from 3D CAD designs, streamlining the feedback loop between product designers and manufacturers.",
+      "summary": "PhD researcher in the Data Analytics Research Group at Ghent University, affiliated with CVAMO Core Lab at Flanders Make. Primary focus on the ManProCAD project developing algorithms to estimate manufacturing effort and cost from 3D CAD designs.",
       "highlights": [
         "FoV-Net: Rotation-invariant CAD B-rep learning framework using field-of-view ray casting (accepted to CVPR 2026)",
         "BenDFM: Synthetic CAD dataset and taxonomy for manufacturability assessment in sheet metal bending",
-        "Research in geometric deep learning, graph neural networks, and explainable AI for CAD applications",
-        "Collaboration with CVAMO Flanders Make Lab"
+        "Research in 3D deep learning, geometric deep learning, graph neural networks, and explainable AI for CAD/manufacturing"
       ]
     },
     {
@@ -116,7 +115,6 @@
       "endDate": "2024-06-30",
       "score": "Summa Cum Laude (863/1000)",
       "highlights": [
-        "Faculty of Economics and Business Administration",
         "Master's Thesis: 'Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring' (18/20)",
         "Elective courses: Deep Learning, Internship"
       ]
@@ -145,7 +143,6 @@
       "endDate": "2022-06-30",
       "score": "Magna Cum Laude (805/1000)",
       "highlights": [
-        "Faculty of Economics and Business Administration",
         "Skills: Operations Research, Java, Data Analysis, SQL, Financial Analysis, Quantitative Research"
       ]
     }
