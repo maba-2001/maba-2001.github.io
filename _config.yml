@@ -311,7 +311,7 @@ enable_cookie_consent: false # enables GDPR-compliant cookie consent dialog (htt
 enable_masonry: false
 enable_math: false
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
-enable_darkmode: false
+enable_darkmode: true # enables light/dark mode toggle button
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: false
 enable_medium_zoom: false

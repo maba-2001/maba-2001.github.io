@@ -49,6 +49,10 @@ See the [publications](/publications/) page for a complete list.
 
 ## Education
 
+- **Ph.D. in Data Analytics** — Ghent University (2024–2028, expected)
+  - Data Analytics Research Group
+  - Focus: 3D Deep Learning for CAD and Manufacturing Intelligence
+
 - **M.S. in Business Engineering: Data Analytics** — Ghent University (2022–2024)
   - Summa Cum Laude (863/1000)
   - Master's Thesis: Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring
