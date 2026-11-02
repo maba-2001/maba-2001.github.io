@@ -9,7 +9,7 @@ last_name: Ballegeer
 contact_note: >
   Best reached by email at matteo.ballegeer@ugent.be.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD researcher in the Data Analytics Research Group at Ghent University (CVAMO Core Lab, Flanders Make) developing AI algorithms for CAD design and manufacturing intelligence. Research focuses on 3D deep learning, geometric learning, and explainable AI.
+  PhD researcher at Ghent University and Flanders Make (CVAMO Core Lab) working on 3D geometric deep learning for CAD: rotation-invariant and equivariant learning on B-reps, design for manufacturing, and explainable AI.
 footer_text: >
   Matteo Ballegeer | PhD Researcher, Ghent University | ORCID: 0009-0006-0881-5644
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
@@ -264,7 +264,7 @@ max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: false
+enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images

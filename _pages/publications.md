@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research publications in 3D deep learning, CAD design for manufacturing, and explainable AI.
+description: Geometric deep learning for CAD, design for manufacturing, and explainable AI. Click a thumbnail to enlarge.
 nav: true
 nav_order: 3
 ---

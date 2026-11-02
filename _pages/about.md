@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: PhD Researcher in 3D Geometric Deep Learning for CAD · Ghent University & Flanders Make
 
 profile:
   align: right
@@ -14,55 +15,71 @@ profile:
     <p><a href="mailto:matteo.ballegeer@ugent.be">matteo.ballegeer@ugent.be</a></p>
     <p><a href="https://orcid.org/0009-0006-0881-5644">ORCID</a></p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: false # rendered inline below instead
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-## About
+I am a PhD researcher at Ghent University and Flanders Make (Core Lab CVAMO), advised by Prof. Dries F. Benoit. I work on **3D deep learning for Computer-Aided Design**, mainly **rotation-invariant and equivariant learning on CAD boundary representations (B-reps)**.
 
-I am a PhD researcher in the Data Analytics Research Group at Ghent University, affiliated with the CVAMO Core Lab at Flanders Make. My work focuses on advancing the state-of-the-art in 3D deep learning for Computer-Aided Design (CAD), with industrial applications in automatic 3D shape understanding for Design for Manufacturing (DFM). As part of the ManProCAD project at Flanders Make, a core goal is developing algorithms to estimate manufacturing effort and cost from 3D CAD designs.
+Labelled CAD data is scarce in industry, so I focus on sample efficiency: building geometric symmetries into the architecture lets models learn more from fewer examples. I apply this to design-for-manufacturing and manufacturing-effort estimation as a core researcher on the Flanders Make **ManProCAD** project, which estimates manufacturing effort and cost from 3D CAD designs during the design phase.
 
-My research interests span 3D deep learning, geometric deep learning, graph neural networks, rotation-invariant and equivariant learning, and explainable AI.
+I am currently a visiting scholar at **Imperial College London** (CIRCLE group, host: Tolga Birdal), working on topological deep learning for B-reps. From March 2027 I will visit **Northeastern University** (hosts: Robin Walters & Peter Schindler) to work on SE(3)-equivariant models for CAD.
 
-## Current Research
+**Research interests:** geometric deep learning · equivariant networks · graph neural networks · CAD B-reps · design for manufacturing · explainable AI
 
-My current research centers on rotation invariance and equivariance in 3D deep learning; building models that understand geometric structure regardless of how a shape is oriented in space. A core motivation is sample efficiency: labelled CAD data is scarce in industrial settings, making it essential to design models that can generalise from limited examples. By encoding geometric symmetries directly into the architecture, equivariant models extract richer, more consistent features without requiring additional data.
+## News
 
-## Featured Publications
+<div class="news-list" markdown="1">
 
-My work has appeared in top-tier venues:
-- **[FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](https://doi.org/10.48550/arXiv.2602.24084)** — Accepted at CVPR 2026
-- **[BenDFM: A taxonomy and synthetic CAD dataset for manufacturability assessment in sheet metal bending](https://doi.org/10.48550/arXiv.2603.13102)** — Recently Accepted at Journal of Intelligent Manufacturing
-- **[Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring](https://doi.org/10.1016/j.ejor.2025.05.039)** — *European Journal of Operational Research* 326(3), 630–640 (SJR Q1)
+| | |
+|:--|:--|
+| **Mar 2027** | Upcoming research visit at **Northeastern University**, Boston. |
+| **Sep 2026** | Started a research visit at **Imperial College London** (CIRCLE group). |
+| **Jun 2026** | Presented **FoV-Net** at **CVPR 2026** in Denver, and gave an invited talk at Imperial College London. |
+| **2026** | 🎉 Papers accepted at **NeurIPS 2026** (SO3brep), **CVPR 2026** (FoV-Net), the *Journal of Intelligent Manufacturing* (BenDFM) and **CIRP ICME 2026**. |
 
-See the [publications](/publications/) page for a complete list.
+</div>
+
+## Selected publications
+
+{% include selected_papers.liquid %}
+
+See all papers on the [publications](/publications/) page.
+
+## Research visits
+
+- **Northeastern University**, Khoury College of Computer Sciences, Boston, USA. Visiting Student Researcher, Mar–Jul 2027 (upcoming). SE(3)-equivariant deep learning for CAD.
+- **Imperial College London**, Department of Computing (CIRCLE group), London, UK. Visiting Scholar, Sep 2026–present. Topological deep learning for CAD B-reps.
 
 ## Education
 
-- **Ph.D. in Data Analytics** — Ghent University (2024–2028, expected)
-  - Data Analytics Research Group
-  - Focus: 3D Deep Learning for CAD and Manufacturing Intelligence
+- **Ph.D. in Data Analytics**, Ghent University (2024–2028, expected)
+- **M.Sc. in Business Engineering: Data Analytics**, Ghent University (2022–2024). Summa cum laude (863/1000)
+- **M.Sc. in Management Engineering (Erasmus exchange)**, Politecnico di Milano (2022–2023). Summa cum laude, average 29.4/30
+- **B.Sc. in Business Engineering**, Ghent University (2019–2022). Magna cum laude (805/1000)
 
-- **M.S. in Business Engineering: Data Analytics** — Ghent University (2022–2024)
-  - Summa Cum Laude (863/1000)
-  - Master's Thesis: Evaluating the stability of model explanations in instance-dependent cost-sensitive credit scoring
-  
-- **Erasmus Exchange** — Politecnico di Milano (2022–2023)
-  - Average: 29.4/30 (equivalent to 842/1000)
+## Talks & presentations
 
-- **B.S. in Business Engineering** — Ghent University (2019–2022)
-  - Magna Cum Laude (805/1000)
+- **Jun 2026**: CVPR 2026, Denver, USA (poster, FoV-Net)
+- **Jun 2026**: Imperial College London, CIRCLE group (invited talk)
+- **May 2026**: FEB Research Day, Ghent University (poster, BenDFM)
+- **Feb 2026**: Flanders Make Scientific Conference (poster, FoV-Net)
+- **Jan 2026**: ORBEL 40 (talk, FoV-Net)
+- **Nov 2025**: 56th Annual Conference of the Decision Sciences Institute, Orlando, USA (talk, BenDFM)
+- **Aug 2025**: Credit Scoring and Credit Control Conference XIX, Edinburgh, UK (talk, explanation stability)
+- **Feb 2025**: Flanders Make Scientific Conference (poster, automated bending data generation)
+- **Jan 2025**: ORBEL 39 (talk, explanation stability)
 
----
+## Service
 
-You can find my profiles via [Google Scholar](https://scholar.google.com), [ORCID](https://orcid.org/0009-0006-0881-5644), and [LinkedIn](https://www.linkedin.com/in/matteo-ballegeer/) in the icons below.
+- Journal reviewer for the *European Journal of Operational Research*, the *Journal of Intelligent Manufacturing* and *Expert Systems with Applications*.
