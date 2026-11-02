@@ -45,7 +45,7 @@ I am currently a visiting scholar at **Imperial College London** (CIRCLE group, 
 |:--|:--|
 | **Mar 2027** | Upcoming research visit at **Northeastern University**, Boston. |
 | **Sep 2026** | Started a research visit at **Imperial College London** (CIRCLE group). |
-| **Jun 2026** | Presented **FoV-Net** at **CVPR 2026** in Denver, and gave an invited talk at Imperial College London. |
+| **Jun 2026** | Presented **FoV-Net** at **CVPR 2026** in Denver. |
 | **2026** | 🎉 Papers accepted at **NeurIPS 2026** (SO3brep), **CVPR 2026** (FoV-Net), the *Journal of Intelligent Manufacturing* (BenDFM) and **CIRP ICME 2026**. |
 
 </div>
@@ -71,7 +71,6 @@ See all papers on the [publications](/publications/) page.
 ## Talks & presentations
 
 - **Jun 2026**: CVPR 2026, Denver, USA (poster, FoV-Net)
-- **Jun 2026**: Imperial College London, CIRCLE group (invited talk)
 - **May 2026**: FEB Research Day, Ghent University (poster, BenDFM)
 - **Feb 2026**: Flanders Make Scientific Conference (poster, FoV-Net)
 - **Jan 2026**: ORBEL 40 (talk, FoV-Net)
